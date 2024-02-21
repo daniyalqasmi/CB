@@ -56,7 +56,7 @@ export default function Facilities() {
                             <div className="xl:w-1/2 md:w-1/2 ">
                                 <div className="card w-96 bg-base-100 shadow-xl">
                                     <figure className="">
-                                        <Image src="/public/library--01.jpg" alt='w1' width={450}
+                                        <Image src="/public/library-01.jpg" alt='w1' width={450}
                                             height={400}
                                             className="w-full h-full object-cover transform transition-transform hover:scale-110"
                                         />
